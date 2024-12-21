@@ -5,9 +5,15 @@ Q. Add users: raju, sham, and babubhaiya; assign passwords to them ?
 
 Q. Change the user ID of raju to 4002 ?
 
+<img width="333" alt="image" src="https://github.com/user-attachments/assets/bc469596-acd2-4225-ab99-c60b35dacc0d" />
+
 Q. Change the user ID of sham to 4003 ?
 
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/30f76a9f-d467-43f5-9e66-62adbe8da61d" />
+
 Q. Create a group named herapheri ?
+
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/0f21784f-49a9-4428-9530-4f4aeecd2ed7" />
 
 Q. Assign a password to the herapheri group ?
 
